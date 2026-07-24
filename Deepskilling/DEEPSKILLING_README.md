@@ -35,12 +35,13 @@ Before diving in — make sure you've completed the Upskilling handbook first. O
 ## Timeline
 
 ```
-Week 1        → Design Patterns + DSA (Engineering Concepts)
-Week 2        → Advanced SQL + NUnit & Moq
-Weeks 3–4    → Entity Framework Core 8
-Weeks 4–5    → ASP.NET Core Web API
-Week 5.5     → Microservices Architecture
-Weeks 6–7    → Angular + Debugging + Git + Docker + DevOps + Agile + GenAI
+Week 1    → Design Patterns + DSA (Engineering Concepts) + Advanced SQL + NUnit & Moq
+Week 2    → Entity Framework Core 8
+Week 3    → ASP.NET Core Web API
+Week 4    → Microservices Architecture
+Week 5    → Angular
+Week 6    → Angular + Git + CI/CD
+Week 7    → Docker + DevOps + GenAI Fundamentals
 
 ```
 
