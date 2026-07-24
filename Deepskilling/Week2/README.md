@@ -1,4 +1,4 @@
-# Week 3 - Entity Framework Core 8.0
+# Week 2 - Entity Framework Core 8.0
 
 Topics Covered
 
