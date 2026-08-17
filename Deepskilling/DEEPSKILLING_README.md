@@ -40,8 +40,8 @@ Week 2    → Entity Framework Core 8
 Week 3    → ASP.NET Core Web API
 Week 4    → Microservices Architecture
 Week 5    → Angular
-Week 6    → Angular + Git + CI/CD
-Week 7    → Docker + DevOps + GenAI Fundamentals
+Week 6    → Angular + Git 
+Week 7    → DevOps + CI/CD
 
 ```
 
